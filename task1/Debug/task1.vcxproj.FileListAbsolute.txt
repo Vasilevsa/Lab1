@@ -1,0 +1,4 @@
+C:\Users\Александр\source\repos\task1\Debug\task1.exe
+C:\Users\Александр\source\repos\task1\Debug\task1.pdb
+C:\Users\Александр\source\repos\Lab1\task1\Debug\task1.exe
+C:\Users\Александр\source\repos\Lab1\task1\Debug\task1.pdb
